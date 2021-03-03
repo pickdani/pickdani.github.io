@@ -1,3 +1,0 @@
-# danielpickett.dev
-
-Personal Website
