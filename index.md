@@ -1,6 +1,6 @@
 <h3> Projects </h3>
 
-Financial Report Text Analysis
+Financial Report Text Analysis <i class="fab fa-github"></i>
 
 Northeastern University Shell
 
