@@ -16,3 +16,11 @@ navigation:
 footer:
     content: "&copy; 2021 Daniel Pickett"
     has_social: true
+
+plugins:
+  - jekyll-paginate
+
+paginate: 3
+paginate_path: '/page:num/'
+
+permalink: /:title
