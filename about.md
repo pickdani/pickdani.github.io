@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About this website
+title: about me
 description: This is the about page
-feature_image: images/boston1.jpg
+feature_image: images/boston2.jpg
 ---
 
 Hi
