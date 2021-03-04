@@ -1,6 +1,6 @@
 <h3> Projects </h3>
 
-Financial Report Text Analysis  <a href="https://github.com/pickdani/sec-stock-predicting"><i class="fab fa-github"></i></a>
+[Financial Report Text Analysis](https://github.com/pickdani/sec-stock-predicting)
 
 Northeastern University Shell
 
