@@ -1,5 +1,6 @@
+this website in progress 💻 :triangular_ruler:
 
-### Projects
+<h3> Projects </h3>
 
 Financial Report Text Analysis
 
