@@ -19,6 +19,7 @@ footer:
 
 plugins:
   - jekyll-paginate
+  - jekyll-target-blank
 
 paginate: 3
 paginate_path: '/page:num/'
