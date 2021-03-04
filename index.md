@@ -1,3 +1,14 @@
-## Projects
+
+### Projects
+
+Financial Report Text Analysis
+
+Northeastern University Shell
 
 Optimized Memory Allocator
+
+Maze Generator
+
+xkcd Password Generator
+
+Firebase Real-time chat
