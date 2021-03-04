@@ -10,8 +10,6 @@ description: >
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
 
 footer:
     content: "&copy; 2021 Daniel Pickett"
