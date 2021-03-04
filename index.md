@@ -1,13 +1,13 @@
 <h3> Projects </h3>
 
-[Financial Report Text Analysis](https://github.com/pickdani/sec-stock-predicting)
+[Financial Report Text Analysis](https://github.com/pickdani/sec-stock-predicting){:target="_blank"}
 
-Northeastern University Shell
+[Northeastern University Shell](https://github.com/pickdani/nush){:target="_blank"}
 
-Optimized Memory Allocator
+[Optimized Memory Allocator](https://github.com/pickdani/optimized-memory-allocator){:target="_blank"}
 
-Maze Generator
+[Maze Generator Game and Solver](https://github.com/pickdani/mazegen){:target="_blank"}
 
-xkcd Password Generator
+[xkcd Memorable Password Generator](https://github.com/pickdani/xkcdpwgen){:target="_blank"}
 
-Firebase Real-time chat
+[Firebase Real-time chat](https://github.com/pickdani/realtimechat){:target="_blank"}
