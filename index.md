@@ -1,5 +1,7 @@
 <h3> Projects </h3>
 
+Infinite Questions iOS App 🚧 in progress 🚧
+
 [Financial Report Text Analysis](https://github.com/pickdani/sec-stock-predicting){:target="_blank"}
 
 [Northeastern University Shell](https://github.com/pickdani/nush){:target="_blank"}
