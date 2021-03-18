@@ -13,6 +13,9 @@ navigation:
   - text: About
     url: /about
 
+# Google Analytics
+google_analytics: UA-102932229-3
+
 footer:
     content: "&copy; 2021 Daniel Pickett"
     has_social: true
