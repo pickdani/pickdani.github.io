@@ -1,5 +1,9 @@
 remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme 
 
+lang: en-US
+
+baseurl: ""
+
 title: danielpickett.dev
 accent_color: '#2d72d9'
 
