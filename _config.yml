@@ -35,3 +35,9 @@ paginate: 3
 paginate_path: '/page:num/'
 
 permalink: /:title
+
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compressed
