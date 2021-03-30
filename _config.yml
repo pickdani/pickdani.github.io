@@ -16,9 +16,9 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
-  - text: Tags
-    url: /tags/
+    url: /about
+  - text: Archives
+    url: /tags
 
 # Google Analytics
 google_analytics: UA-102932229-3
