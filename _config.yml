@@ -3,6 +3,7 @@ remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme
 lang: en-US
 
 baseurl: ""
+url: "https://danielpickett.dev"
 
 title: danielpickett.dev
 accent_color: '#2d72d9'
