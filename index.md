@@ -1,6 +1,6 @@
 <h3> Projects </h3>
 
-Infinite Questions 🚧 In Progress 🚧
+[Infinite Questions](https://apps.apple.com/us/app/infinite-question/id1563513116){:target="_blank"} (now on app store 🥳)
 
 [Financial Report Text Analysis](https://github.com/pickdani/sec-stock-predicting){:target="_blank"}
 
