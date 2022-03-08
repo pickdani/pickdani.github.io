@@ -21,10 +21,10 @@ This article will attempt to examine how this all happens, including researching
 
 **Table of Contents**
 
-1.  [Evolution of the App Store](#77bc)
-2.  [Learning from Past Developers](#283e)
-3.  [Analyzing Paths to Popularity](#8186)
-4.  [Conclusion](#50f9)
+1.  [Evolution of the App Store](#1-evolution-of-the-app-store)
+2.  [Learning from Past Developers](#2-learning-from-past-developers)
+3.  [Analyzing Paths to Popularity](#3-analyzing-paths-to-popularity)
+4.  [Conclusion](#4-conclusion)
 
 1\. Evolution of the App Store
 ==============================
