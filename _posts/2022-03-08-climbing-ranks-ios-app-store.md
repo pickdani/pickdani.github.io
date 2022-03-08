@@ -4,19 +4,11 @@ title: "Climbing the Ranks of the iOS App Store"
 description: "Understanding the paths leading to Apple’s top charts."
 date: 2021-03-30
 feature_image: https://miro.medium.com/max/1400/1*ExQL2D4oM3tYKmEEV2HmOg.gif
-tags: [iOS, CS, Software]
-author: 'Daniel Pickett'
+tags: [iOS]
+author: daniel_pickett
 ---
 
 Dec 6, 2021
-
-Climbing the Ranks of the iOS App Store
-=======================================
-
-Understanding the paths leading to Apple’s top charts
------------------------------------------------------
-
-![Floating app icons.](https://miro.medium.com/max/1400/1*ExQL2D4oM3tYKmEEV2HmOg.gif)Source: [Voodoo](https://blog.voodoo.io/articles/hypercasual-publishing-Voodoo)
 
 Apple’s App Store is a marketplace where anyone can share their software globally, from large corporations to small teams and solo developers. As of September 2021, over 2.2 million apps are available on the App Store.⁸ Meanwhile, the top charts now only showcase twenty apps for each category. This selectivity raises the question of what makes those apps stand out?
 
@@ -122,10 +114,6 @@ Purchasing ads is another way to find potential users. Social media sites such a
 
 A conversion rate is calculated to find the percentage of impressions that convert, or in this case, lead to an install. A higher conversion rate indicates a more effective ad, and targeted ads tend to have higher conversion rates. Going back to the topic of Apple’s changing guidelines, recently, Apple has given users more control over their data. The prompt seen below enables users to opt-out of data tracking, making ads less effective and therefore more expensive but improving user privacy.
 
-***
-___
-
-
 ![The prompt asking iPhone users if they would like to be tracked.](https://miro.medium.com/max/1400/1*OFjGHPOYQZd4tHbkUncUMw.png)Source: [Mahmoud Itani](https://www.xda-developers.com/apple-app-tracking-transparency-policy-hurting-platforms/)
 
 The final example of a step that app developers can take is applying directly to Apple to be featured. It’s in Apple’s best interest for its developers to be successful, and part of this is highlighting valuable apps. Developers can apply by signing into a developer account here ([https://developer.apple.com/contact/app-store/promote/](https://developer.apple.com/contact/app-store/promote/)).
@@ -140,6 +128,8 @@ Filling out a few text fields about the app’s details, the marketing plans, an
 ![A graphic showing a few people interacting with an app.](https://miro.medium.com/max/1400/1*GB1gsksb7hApamR1QKJqPQ.gif)Source: [Apple](https://www.apple.com/newsroom/2021/06/apple-developers-grow-app-store-ecosystem-billings-and-sales-by-24-percent-in-2020/)
 
 There are specific steps that developers and small businesses can take to help position their apps to grow. But most importantly, it has to be exciting and valuable enough to retain some number of these users. Being in the top charts is not necessarily something to strive for, but instead creating an experience that users enjoy and benefit from, which will prompt them to share it on their own. Each time a new app moves into the top charts, another must fall from it. As recent trends emerge, there will always be apps that cycle in and out of popularity. It’s the apps that provide real value that can hold their place among the top charts.
+
+***
 
 \[1\]: Apple. “Apple Announces IPhone 2.0 Software Beta.” Apple Newsroom, December 2, 2021. [https://www.apple.com/newsroom/2008/03/06Apple-Announces-iPhone-2-0-Software-Beta/.](https://www.apple.com/newsroom/2008/03/06Apple-Announces-iPhone-2-0-Software-Beta/.)
 
