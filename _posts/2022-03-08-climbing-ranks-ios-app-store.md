@@ -72,7 +72,8 @@ Despite the difficulty of navigating this ever-adapting space, and fortunately f
 
 It’s important to note that depending on the type of app, the skills, experience, and resources necessary to create it can vary drastically. Video hosting, for example, is notoriously expensive, and many types of apps leveraging this are out of reach for even most startups. In contrast, single-player games can be relatively easy to program, and there’s an abundance of tutorials around the internet walking through examples. Unfortunately, however, games are also the most saturated category in the App Store.
 
-![](https://miro.medium.com/max/1400/1*V6OiWamiurvwX25qdKm5mA.png)Top ten App Store categories by share of availability, June 2021 Source: [statista](https://www.statista.com/statistics/270291/popular-categories-in-the-app-store/)
+![](https://miro.medium.com/max/1400/1*V6OiWamiurvwX25qdKm5mA.png)
+Top ten App Store categories by share of availability, June 2021 Source: [statista](https://www.statista.com/statistics/270291/popular-categories-in-the-app-store/)
 
 Games can be easy to create, but creating a good game interesting enough to stand out from the hundreds of others released every day is not. However, for an app to reach the top charts, it doesn’t necessarily have to be the best. The app I want to discuss further in this section is _Frantic Architect_. This highly simplistic mobile game released in 2016 was created by a college student and amassed around 350k downloads in a week before quickly fading out of popularity.¹²
 
@@ -80,7 +81,8 @@ In some ways, this app was a success for receiving hundreds of thousands of down
 
 **Frantic Architect**
 
-![](https://miro.medium.com/max/1200/1*lVt7odaTcxD8YEcunySbBQ.gif)Frantic Architect Gameplay, Source: [BulkyPix](https://www.youtube.com/watch?v=hkLiQ17KNRE)
+![](https://miro.medium.com/max/1200/1*lVt7odaTcxD8YEcunySbBQ.gif)
+Frantic Architect Gameplay, Source: [BulkyPix](https://www.youtube.com/watch?v=hkLiQ17KNRE)
 
 The app is simple. An indicator moves around random positions, and the user can tap the screen to place a block there. The player can continue stacking blocks to build a tall tower until the structure loses balance and collapses. The game is free and profits from advertisements.
 
