@@ -10,6 +10,9 @@ author: daniel_pickett
 
 Dec 6, 2021
 
+Understanding the paths leading to Apple’s top charts
+-----------------------------------------------------
+
 Apple’s App Store is a marketplace where anyone can share their software globally, from large corporations to small teams and solo developers. As of September 2021, over 2.2 million apps are available on the App Store.⁸ Meanwhile, the top charts now only showcase twenty apps for each category. This selectivity raises the question of what makes those apps stand out?
 
 Many, including Instagram, Snapchat, and YouTube, are backed by billion-dollar companies, boast a colossal network of users, and have hundreds to thousands of employees building out new features to stay ahead. Yet despite this, smaller teams and even individual developers lacking those resources are still occasionally able to make it to the top charts.
