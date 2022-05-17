@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Posts
+title: posts
 description: A posts page for danielpickett.dev posts
 ---
 
