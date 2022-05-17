@@ -4,7 +4,7 @@ title: "Climbing the Ranks of the iOS App Store"
 description: "Understanding the paths leading to Apple’s top charts."
 date: 2022-03-08
 feature_image: https://miro.medium.com/max/1400/1*ExQL2D4oM3tYKmEEV2HmOg.gif
-posts: [iOS]
+tags: [iOS]
 author: daniel_pickett
 ---
 
