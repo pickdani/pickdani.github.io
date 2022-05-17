@@ -1,6 +1,8 @@
 <h3> Projects </h3>
 
-[Infinite Questions](https://apps.apple.com/us/app/infinite-question/id1563513116){:target="_blank"} (now on app store as of 4/18/21 🥳)
+[ASL Image Classification](https://github.com/pickdani/ASL-Image-Classification){:target="_blank"}
+
+[Infinite Questions](https://apps.apple.com/us/app/infinite-question/id1563513116){:target="_blank"}
 
 [Financial Report Text Analysis](https://github.com/pickdani/sec-stock-predicting){:target="_blank"}
 
