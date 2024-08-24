@@ -9,7 +9,7 @@ title: danielpickett.dev
 accent_color: '#2d72d9'
 
 description: >
-    <span style="font-style: normal;"> Hello! I'm <a href="https://danielpickett.dev/about">Daniel</a>, a Software Engineer in Boston at <a href="https://pos.toasttab.com">Toast</a> 🍞</span>
+    <span style="font-style: normal;"> Hello! I'm Daniel, a Software Engineer in Boston.</span>
 
 navigation:
   - text: Home
@@ -23,7 +23,7 @@ navigation:
 google_analytics: UA-102932229-3
 
 footer:
-    content: "&copy; 2023 Daniel Pickett"
+    content: "&copy; 2024 Daniel Pickett"
     has_social: true
 
 plugins:
