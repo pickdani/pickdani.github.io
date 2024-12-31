@@ -7,8 +7,6 @@ share: false
 about: false
 ---
 
-<img src="/images/shakshuka.png" style="width: 100%; height: 500px; object-fit: cover; object-position: center;" alt="Shakshuka">
-
 ## Simple and Flavorful Shakshuka
 
 ### Ingredients
@@ -53,3 +51,5 @@ about: false
    - Garnish with fresh parsley or cilantro and feta cheese if desired
    - Serve hot with bread for dipping
 ```
+
+<img src="/images/shakshuka.png" style="width: 100%; height: 500px; object-fit: cover; object-position: center;" alt="Shakshuka">
