@@ -5,4 +5,4 @@ description: This is the about page
 feature_image: images/boston2.jpg
 ---
 
-I moved to Boston to pursue a CS degree at Northeastern, with a concentration in AI. I'm currently working as a Software Engineer in the greater Boston area. Always on the lookout for exciting projects - reach me at pickett.d [at] northeastern.edu
+I earned my bachelor's degree in Computer Science with a concentration in AI from Northeastern and have since been working as a Software Engineer in the Boston area. Passionate about tackling exciting challenges and building impactful projects. Feel free to reach out at pickett.d [at] northeastern.edu.
