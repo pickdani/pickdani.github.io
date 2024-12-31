@@ -3,7 +3,7 @@ layout: post
 title: "Shakshuka"
 date: 2024-12-31
 author: daniel_pickett
-feature_image: <img src="/images/shakshuka.png" style="max-width: 100%; max-height: 500px;" alt="Shakshuka">
+feature_image: images/shakshuka.png
 share: false
 about: false
 ---
