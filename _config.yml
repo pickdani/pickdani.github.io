@@ -6,10 +6,10 @@ baseurl: ""
 url: "https://danielpickett.dev"
 
 title: danielpickett.dev
-accent_color: '#2d72d9'
+accent_color: "#2d72d9"
 
 description: >
-    <span style="font-style: normal;"> Hello! I'm Daniel, a Software Engineer in Boston, MA. 🙂</span>
+  <span style="font-style: normal;"> Hello! I'm Daniel, a Software Engineer in Boston, MA. 🙂</span>
 
 navigation:
   - text: Home
@@ -25,15 +25,15 @@ navigation:
 google_analytics: UA-102932229-3
 
 footer:
-    content: "&copy; 2025 Daniel Pickett"
-    has_social: true
+  content: "&copy; 2025 Daniel Pickett"
+  has_social: true
 
 plugins:
   - jekyll-paginate
   - jekyll-target-blank
 
 paginate: 3
-paginate_path: '/page:num/'
+paginate_path: "/page:num/"
 
 permalink: /:title
 
@@ -42,3 +42,8 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+collections:
+  tech:
+    output: true
+    permalink: /:collection/:title
