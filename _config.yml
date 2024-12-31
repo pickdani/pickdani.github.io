@@ -18,8 +18,8 @@ navigation:
     url: /about
   - text: Tech
     url: /tech
-  - text: Cooking
-    url: /cooking
+  - text: Recipes
+    url: /recipes
 
 # Google Analytics
 google_analytics: UA-102932229-3
@@ -47,6 +47,6 @@ collections:
   tech:
     output: true
     permalink: /:collection/:title
-  cooking:
+  recipes:
     output: true
     permalink: /:collection/:title

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Cooking posts and recipes
+title: Recipes
 description: Cooking posts and recipes
 ---
 
 I'm in the arena trying stuff. Some will work, some won't. But always learning.
 
 <div class="post-feed">
-  {% if site.cooking and site.cooking.size > 0 %}
-    {% for post in site.cooking %}
+  {% if site.recipes and site.recipes.size > 0 %}
+    {% for post in site.recipes %}
       <article class="timeline-entry">
         <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
         <div class="post-content">
