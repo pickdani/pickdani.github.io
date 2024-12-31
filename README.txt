@@ -1,2 +1,2 @@
 Jekyll site hosted with GitHub pages.
-# https://jekyllrb.com
+# https://github.com/jekyll/jekyll
