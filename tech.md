@@ -8,7 +8,7 @@ description: Tech posts and articles
   {% if site.tech and site.tech.size > 0 %}
     {% for post in site.tech %}
       <article class="timeline-entry">
-        <div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
+        <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
         <div class="post-content">
           <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
           <p>{{ post.description }}</p>
