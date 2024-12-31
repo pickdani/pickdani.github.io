@@ -4,7 +4,7 @@ title: Recipes
 description: Cooking posts and recipes
 ---
 
-I'm in the arena trying stuff. Some will work, some won't. But always learning.
+> I'm in the arena trying stuff. Some will work, some won't. But always learning.
 
 <div class="post-feed">
   {% if site.recipes and site.recipes.size > 0 %}
