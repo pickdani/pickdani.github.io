@@ -4,8 +4,6 @@ title: Tech
 description: Tech posts and articles
 ---
 
-{% raw %}
-
 <div class="post-feed">
   {% if site.tech.size > 0 %}
     {% for post in site.tech %}
@@ -32,4 +30,3 @@ description: Tech posts and articles
     <p>No posts found.</p>
   {% endif %}
 </div>
-{% endraw %}
