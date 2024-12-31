@@ -4,6 +4,7 @@ title: "Shakshuka"
 date: 2024-12-31
 author: daniel_pickett
 share: false
+about: false
 ---
 
 ## Simple and Flavorful Shakshuka

@@ -7,6 +7,7 @@ feature_image: https://miro.medium.com/max/1400/1*ExQL2D4oM3tYKmEEV2HmOg.gif
 tags: []
 author: daniel_pickett
 share: false
+about: false
 ---
 
 ## Understanding the paths leading to Apple’s top charts
