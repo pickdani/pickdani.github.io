@@ -7,7 +7,7 @@ share: false
 about: false
 ---
 
-<img src="/images/shakshuka.png" style="max-width: 100%; max-height: 500px;" alt="Shakshuka">
+<img src="/images/shakshuka.png" style="width: 100%; height: 500px; object-fit: cover; object-position: center;" alt="Shakshuka">
 
 ## Simple and Flavorful Shakshuka
 
