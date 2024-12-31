@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Technical posts
-description: Tech posts and articles
+title: Cooking posts and recipes
+description: Cooking posts and recipes
 ---
 
+I'm in the arena trying stuff. Some will work, some won't. But always learning.
+
 <div class="post-feed">
-  {% if site.tech and site.tech.size > 0 %}
-    {% for post in site.tech %}
+  {% if site.cooking and site.cooking.size > 0 %}
+    {% for post in site.cooking %}
       <article class="timeline-entry">
-        <div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
+        <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
         <div class="post-content">
           <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
           <p>{{ post.description }}</p>

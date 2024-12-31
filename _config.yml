@@ -47,3 +47,6 @@ collections:
   tech:
     output: true
     permalink: /:collection/:title
+  cooking:
+    output: true
+    permalink: /:collection/:title
