@@ -8,8 +8,7 @@ tags: [iOS]
 author: daniel_pickett
 ---
 
-Understanding the paths leading to Apple’s top charts
------------------------------------------------------
+## Understanding the paths leading to Apple’s top charts
 
 Apple’s App Store is a marketplace where anyone can share their software globally, from large corporations to small teams and solo developers. As of September 2021, over 2.2 million apps are available on the App Store.⁸ Meanwhile, the top charts now only showcase twenty apps for each category. This selectivity raises the question of what makes those apps stand out?
 
@@ -24,8 +23,7 @@ This article will attempt to examine how this all happens, including researching
 3.  [Analyzing Paths to Popularity](#3-analyzing-paths-to-popularity)
 4.  [Conclusion](#4-conclusion)
 
-1\. Evolution of the App Store
-==============================
+# 1\. Evolution of the App Store
 
 ![Four variations of the App Store icon over the years.](https://miro.medium.com/max/1166/1*juAqWiFhwOUdIc51HNn2eA.png)
 
@@ -61,8 +59,7 @@ It’s clear how quickly the App Store has changed over time. New features imple
 
 Another crucial area constantly changing is the app approval process. Apple consistently updates its terms on what is and is not allowed within an app. After developing an app, it can’t be released directly to the store. Instead, Apple will take several days to review the app and ensure it follows the guidelines and doesn’t serve a malicious purpose. As new policies are introduced, many older apps are removed.
 
-2\. Learning from Past Developers
-=================================
+# 2\. Learning from Past Developers
 
 ![Flappy bird gif moving between the pipes.](https://miro.medium.com/max/1400/1*Q8f5FCSQe37-lnaMDLLFyw.gif)Source: [Julio Bohigues](http://illuecaesdiferente.blogspot.com/2017/02/ejercicio-11.html)
 
@@ -100,8 +97,7 @@ But receiving this feature from Apple and even having hundreds of thousands of u
 
 Being in the top charts doesn’t guarantee anything more than a temporary boost in downloads; Even then, it doesn’t lead to targeted downloads, as stated above. It can certainly be helpful to grow, but if the actual app doesn’t consistently provide value, then the growth won’t be sustainable.
 
-3\. Analyzing Paths to Popularity
-=================================
+# 3\. Analyzing Paths to Popularity
 
 ![A graphic of various interconnected screens and apps.](https://miro.medium.com/max/1400/1*1WtezW33XneJJnGiUbXKQQ.gif)Source: [Apple](https://www.apple.com/ca/newsroom/2021/04/apples-ios-app-economy-drives-economic-growth-and-opportunity-across-canada/)
 
@@ -125,14 +121,13 @@ The final example of a step that app developers can take is applying directly to
 
 Filling out a few text fields about the app’s details, the marketing plans, and the story behind it is all it takes to have a shot at being featured. They even give guidelines on what they are looking for, ranging from high-quality UI to supporting multiple languages, no publisher or marketing team necessary.
 
-4\. Conclusion
-==============
+# 4\. Conclusion
 
 ![A graphic showing a few people interacting with an app.](https://miro.medium.com/max/1400/1*GB1gsksb7hApamR1QKJqPQ.gif)Source: [Apple](https://www.apple.com/newsroom/2021/06/apple-developers-grow-app-store-ecosystem-billings-and-sales-by-24-percent-in-2020/)
 
 There are specific steps that developers and small businesses can take to help position their apps to grow. But most importantly, it has to be exciting and valuable enough to retain some number of these users. Being in the top charts is not necessarily something to strive for, but instead creating an experience that users enjoy and benefit from, which will prompt them to share it on their own. Each time a new app moves into the top charts, another must fall from it. As recent trends emerge, there will always be apps that cycle in and out of popularity. It’s the apps that provide real value that can hold their place among the top charts.
 
-***
+---
 
 \[1\]: Apple. “Apple Announces IPhone 2.0 Software Beta.” Apple Newsroom, December 2, 2021. [https://www.apple.com/newsroom/2008/03/06Apple-Announces-iPhone-2-0-Software-Beta/.](https://www.apple.com/newsroom/2008/03/06Apple-Announces-iPhone-2-0-Software-Beta/.)
 

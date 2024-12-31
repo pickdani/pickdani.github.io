@@ -16,8 +16,10 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Posts
-    url: /posts
+  - text: Tech
+    url: /tech
+  - text: Cooking
+    url: /cooking
 
 # Google Analytics
 google_analytics: UA-102932229-3
