@@ -44,7 +44,8 @@ about: false
 3. Add the Eggs
    - Create small indentations in the sauce using a spoon
    - Crack eggs into the spaces
-   - Cover and cook for 5-8 minutes until eggs are set, depending on how runny you like your yolks
+   - Cover and cook for 5-8 minutes until eggs are set,
+     depending on how runny you like your yolks
 
 4. Serve
    - Garnish with fresh parsley or cilantro and feta cheese if desired
