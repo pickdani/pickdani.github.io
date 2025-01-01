@@ -7,8 +7,6 @@ share: false
 about: false
 ---
 
-## Simple and Flavorful Shakshuka
-
 ### Ingredients
 
 ```
